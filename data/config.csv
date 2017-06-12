@@ -1,0 +1,13 @@
+Name,Value
+DATA_interface,1
+ROTATE_FACTOR,90.0
+MIRROR_ENABLE,flase
+ZOOM_FACTOR,30.0
+GRID_OFFSET_X,-36
+GRID_OFFSET_Y,0
+FILE_name,c:\temp\data.bin
+UART_port_name,COM1
+UART_baud_rate,115200
+UART_parity,N
+UART_data_bits,8
+UART_stop_bits,1.0
