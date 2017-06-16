@@ -1,7 +1,7 @@
 Name,Value
 DATA_interface,0
-SCREEN_x_ratio,0.0
-SCREEN_y_ratio,0.0
+SCREEN_x_ratio,0.5
+SCREEN_y_ratio,0.5
 SCREEN_width_ratio,0.5
 SCREEN_height_ratio,0.5
 ROTATE_FACTOR,0.0
